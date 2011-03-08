@@ -1,0 +1,10 @@
+Package: com.w00tylab.TrendRemover
+Name: Twitter AdRemover
+Depends: mobilesubstrate
+Version: 1
+Architecture: iphoneos-arm
+Description: Remove the annoying trend-ads from Twitter for iPhone!
+Maintainer: moeseth
+Author: moeseth
+Twitter: www.twitter.com/moeseth
+Section: Tweaks
